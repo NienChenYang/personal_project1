@@ -23,7 +23,7 @@ h2{
     
 }
 
-p{
+.food_txt p{
     text-indent: -20px;
     font-size: 16px;
     color: #696565;

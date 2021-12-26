@@ -1,0 +1,134 @@
+.birthday{
+    width: 1200px;
+    margin: auto;
+    background-color: rgb(250, 250, 241);
+}
+
+h1{
+    background-color: #ab917f;
+    color: #fff;
+    padding: 20px;
+    display: inline-block;
+    position: absolute;
+    right: 350px;
+    top: -30px;
+    border-radius: 3px;
+    box-shadow: 1px 2px 3px #aaa;
+
+}
+
+h2{
+    color: #1b1464;
+    padding: 10px 10px 10px 0;
+    
+}
+
+p{
+    text-indent: -20px;
+    font-size: 16px;
+    color: #696565;
+    line-height: 30px;
+}
+
+a{
+    text-decoration: none;
+}
+
+span{
+    font-weight: bold;
+    color: #134e6c;
+}
+
+.banner img{
+    width: 1200px;
+}
+
+.discount{
+    width: 1200px;
+    margin: auto;
+    background-image: url(../pic/birthday/line.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin-top: 100px;
+    position: relative;
+    padding-bottom: 100px;
+
+}
+
+.discount_item{
+    display: flex;
+   
+}
+
+.birthday1 .food_pic{
+    width: 350px;
+    
+}
+
+.birthday1 .food_txt{
+    margin-top: 90px;
+    margin-left: -20px;
+   
+}
+
+.birthday2{
+    display: flex;
+    flex-direction: row-reverse;
+}
+
+.birthday2 .food_pic{
+    width: 500px;
+    margin-right: 100px;
+    margin-bottom: 50px;    
+
+}
+
+.birthday2 .food_txt{
+    margin-top: 120px;
+    margin-right: 250px;
+}
+
+.birthday3 .food_pic{
+    width: 400px;
+    margin-bottom: 50px;
+    margin-left: 50px;
+}
+
+.birthday3 .food_txt{
+    margin-top: 85px;
+    margin-left: 150px;
+}
+
+.birthday4{
+    display: flex;
+    flex-direction: row-reverse;
+
+}
+
+.birthday4 .food_pic{
+    width: 400px;
+    margin-bottom: 40px;
+    margin-right: 150px;
+    
+}
+
+.birthday4 .food_txt{
+    margin-top: 100px;
+    margin-right: 200px;
+}
+
+.birthday5 .food_pic{
+    width: 500px;
+    margin-top: 120px;
+    margin-left: 100px;
+}
+
+.birthday5 .food_txt{
+    margin-top: 100px;
+    margin-left: 200px;
+}
+
+.target{
+    width: 16px;
+
+}

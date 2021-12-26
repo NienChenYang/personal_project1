@@ -1,0 +1,79 @@
+.container{
+    padding-top: 115px;
+}
+
+h1{
+    color: #1b1464;
+    font-weight: bold;
+    margin: 0 100px 40px 100px;
+    text-align: center;
+    display: flex;
+    flex-direction: row;
+        
+}
+
+h1:before, h1:after{
+    content: "";
+    flex:1 1;
+    border-bottom: 1px dashed #1b1464;
+    margin: auto;
+    
+}
+
+.place{
+    margin: 0 0 50px 30px;
+}
+
+h2{
+    color: #1b1464;
+    line-height: 30px;
+    padding-top: 20px;
+
+}
+
+a{
+    text-decoration: none;
+}
+
+.business{
+    background-color: #fff;
+    box-shadow: 1px 2px 3px #aaa;
+    border-radius: 5px;
+}
+
+.business:hover{
+    transform: scale(1.05,1.05);
+}
+
+.shoplist{
+   width: 1200px;
+   margin: auto;
+   padding: 80px;
+   background-color: rgb(250, 250, 241); 
+   
+}
+
+.shoplist .shop{
+   text-align: center;
+  
+   
+}
+
+.shoplist .shop .food_pic{
+    width:95%;
+    padding-bottom: 5px;
+   
+}
+
+.shoplist .shop .target{
+    width: 14px;
+}
+
+.shoplist .shop p{
+    color: #134e6c;
+    line-height: 30px;
+    padding: 20px;
+     
+    
+}
+

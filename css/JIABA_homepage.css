@@ -68,7 +68,7 @@ animation-delay: 20s;
 
 }
 
-@-webkit-keyframes round {
+@keyframes round {
     4% {
     opacity: 1;
     filter: alpha(opacity=100);

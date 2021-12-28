@@ -4,7 +4,6 @@
     color: #fff;
     padding:0 20px 0 20px;
     line-height: 60px;
-    /* box-shadow: 2px 3px 4px rgba(0, 0, 0, .5); */
     border-radius: 3px;
     display: inline-block;
     
@@ -237,7 +236,7 @@ animation-delay: 20s;
 
 .week_popular .rank_wrap{
     width: 900px;
-    height: 430px;
+    height: 400px;
     background-color: rgb(250, 250, 241); 
     margin: 0px 140px;
     display: flex;
@@ -255,14 +254,15 @@ animation-delay: 20s;
 
 .week_popular .rank_item{
     width: 300px;
-    height: 90%;
+    height: 83%;
     position: relative;
     margin: 0 20px;
+    
     
 }
 
 .week_popular .rank_item:hover{
-    transform: scale(1.1,1.1);
+    transform: scale(1.02,1.02);
 
 }
 
@@ -322,25 +322,11 @@ animation-delay: 20s;
    
 }
 
-.week_popular .more{
-    margin-left: 180px;
-    text-decoration: none;
-    color: #134f6c;
-    font-size: 18px;
-    
-}
-
-.week_popular .more:hover{
-   font-weight: bold;
-    
-}
-
 .week_popular .food_paint{
-    width: 200px;
     width: 200px;
     position: absolute;
     right: -120px;
-    top: 400px;
+    top: 350px;
     
 
 }
@@ -391,7 +377,7 @@ animation-delay: 20s;
 }
 
 .discount_item:hover{
-    transform: scale(1.1,1.1);
+    transform: scale(1.03,1.03);
 
 }
 
@@ -452,7 +438,7 @@ animation-delay: 20s;
 }
 
 .discount .more:hover{
-    transform: scale(1.1,1.1) ;
+    transform: scale(1.03,1.03) ;
     font-weight: bold;
 
 }
@@ -502,7 +488,7 @@ animation-delay: 20s;
 }
 
 .new_shop_item:hover{
-    transform: scale(1.1,1.1);
+    transform: scale(1.03,1.03);
 
 }
 
@@ -568,7 +554,7 @@ animation-delay: 20s;
 }
 
 .new_shop .more:hover{
-    transform: scale(1.1,1.1) ;
+    transform: scale(1.03,1.03) ;
     font-weight: bold;
 
 }

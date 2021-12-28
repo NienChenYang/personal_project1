@@ -129,7 +129,7 @@ nav .login_register{
     display: flex;
     justify-content: space-evenly;
     position:relative;
-    background-color: rgb(255, 255, 255, .5);
+    background-color: rgb(255, 255, 255, .8);
 }
 
 .path ul{
@@ -159,6 +159,9 @@ nav .login_register{
     margin-top: -10px;
     padding-bottom: 5px ;
     padding-top: 5px;
+    color: #134e6c;
+    font-weight: bold; 
+    position: relative;
 }
 
 .path li a:hover {
@@ -172,9 +175,9 @@ nav .login_register{
     border-left: 5px solid transparent ;
     border-top: 5px solid #134e6c;
     position: absolute;
+    top: 15px;
     right: -15px;
-    top: 5px;
-
+    
 }
 
 .path li:hover ul { 

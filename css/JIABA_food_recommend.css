@@ -75,7 +75,7 @@ hr{
  }
 
  .week_popular .rank_item:hover{
-    transform: scale(1.05,1.05);
+    transform: scale(1.02,1.02);
 
 }
 
@@ -241,7 +241,7 @@ hr{
 }
 
 .column_item:hover{
-    transform: scale(1.05,1.05);
+    transform: scale(1.02,1.02);
 }
 
 .column_item img{

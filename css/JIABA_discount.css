@@ -154,7 +154,7 @@ h1:hover{
 }
 
 .discount_item:hover{
-    transform: scale(1.03,1.03);
+    transform: scale(1.02,1.02);
 
 }
 
@@ -197,7 +197,7 @@ h1:hover{
 }
 
 .discount .more:hover{
-    transform: scale(1.1,1.1) ;
+    transform: scale(1.02,1.02);
     font-weight: bold;
 
 }
